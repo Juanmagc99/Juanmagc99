@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Juanma**
 
-<!--
-**Juanmagc99/Juanmagc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Backend Software Engineer** from 🇪🇸 Spain, currently working in the **Fintech** industry.  
+My main language at work is **Python**, but these days I'm especially interested in **Golang**.  
 
-Here are some ideas to get you started:
+🔧 I enjoy building tools and small infrastructure-related projects to learn more about systems and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Current Focus
+
+- Learning more about **Go** and **Infrastructure as Code**
+- Building personal projects that help me improve my understanding of backend performance and deployment pipelines
+
+---
+
+## 📫 Get in touch
+
+You can reach me here on GitHub or via [LinkedIn](https://www.linkedin.com/in/juan-manuel-garcia-criado/). I'm always happy to connect with fellow developers!
+
+---
+
+> “Trying is the first step toward failure.” — Homer Simpson
+
+
